@@ -1,0 +1,4 @@
+uploads/awareness/*
+uploads/reports/*
+!uploads/awareness/.gitkeep
+!uploads/reports/.gitkeep
