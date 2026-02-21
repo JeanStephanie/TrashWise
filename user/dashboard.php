@@ -46,16 +46,16 @@ if ($greenPoints >= 500) {
     $next = 500;
 } elseif ($greenPoints >= 150) {
     $badge = "Eco Member 🌱";
-    $current = 150;
+    $current = 100;
     $next = 300;
-} elseif ($greenPoints >= 50) {
+} elseif ($greenPoints >= 20) {
     $badge = "Eco Newbie 🌍";
-    $current = 50;
-    $next = 150;
+    $current = 20;
+    $next = 100;
 } else {
     $badge = "Eco Contributor 🍃";
     $current = 0;
-    $next = 50;
+    $next = 20;
 }
 
 $progress = ($next > 0)

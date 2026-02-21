@@ -57,8 +57,8 @@ while ($row = mysqli_fetch_assoc($rankResult)) {
 function getBadge($points) {
     if ($points >= 500) return "Eco Champion 🌳";
     if ($points >= 300) return "Eco Hero 🌿";
-    if ($points >= 150) return "Eco Member 🌱";
-    if ($points >= 50)  return "Eco Newbie 🌍";
+    if ($points >= 100) return "Eco Member 🌱";
+    if ($points >= 20)  return "Eco Newbie 🌍";
     return "Eco Contributor 🍃";
 }
 ?>

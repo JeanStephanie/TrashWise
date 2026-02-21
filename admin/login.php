@@ -26,7 +26,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 
             $admin = mysqli_fetch_assoc($result);
 
-            if ($password === $admin['password']) {
+            if (password_verify($password, $admin['password'])) {
 
                 $_SESSION['admin_id']    = $admin['admin_id'];
                 $_SESSION['admin_email'] = $admin['email'];
