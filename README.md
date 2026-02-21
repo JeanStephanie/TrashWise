@@ -86,11 +86,10 @@ http://localhost/TrashWise
 - Image file type validation
 
 ## Screenshots
-## User
 <details> <summary><strong>User Side</strong></summary><br>
 <p><b>User Sign Up</b></p>
  <p>To login, the user must first create an account by signing up.</p>
-<img src="./assets/screenshots/registration.png" width="500"/><br><br>
+<img src="./assets/screenshots/registeration.png" width="500"/><br><br>
  
 <p><b>Login</b></p>
 <p>This is the login page. After logging in, the user can access the website.</p>
@@ -126,19 +125,19 @@ http://localhost/TrashWise
 <details> <summary><strong>Admin Side</strong></summary>
 <p><b>Admin Login</b></p>
 <p>After logging in, the admin can manage users, reports, update collection schedules, and upload awareness posts.</p>
-<img src="./assets/screenshots/admin_login.png" width="500"/><br>
+<img src="./assets/screenshots/admin_login.png" width="500"/><br><br>
  
 <p><b>Dashboard</b></p>
-<img src="./assets/screenshots/admin_dashboard.png" width="500"/><br>
+<img src="./assets/screenshots/admin_dashboard.png" width="500"/><br><br>
 
 <p><b>Manage Users</b></p>
-<img src="./assets/screenshots/users.png" width="500"/><br>
+<img src="./assets/screenshots/users.png" width="500"/><br><br>
 
 <p><b>Waste Reports</b></p> 
-<img src="./assets/screenshots/waste_reports.png" width="500"/><br>
+<img src="./assets/screenshots/waste_reports.png" width="500"/><br><br>
 
 <p><b>Collection Schedules</b></p>
-<img src="./assets/screenshots/collection.png" width="500"/><br>
+<img src="./assets/screenshots/collection.png" width="500"/><br><br>
 
 <p><b>Awareness Content</b></p>
 <img src="./assets/screenshots/posts.png" width="500"/>
